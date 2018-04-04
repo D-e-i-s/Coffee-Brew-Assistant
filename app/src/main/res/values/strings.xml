@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CoffeeBrewAssistant_spollina</string>
+    <string name="US_measurement">U.S.</string>
+    <string name="US_oz">%1$s oz.</string>
+    <string name="US_Tbsp">%1$s Tbsp.</string>
+    <string name="US_Tbsp_fraction">%1$s %2$s/3 Tbsp.</string>
+    <string name="metric_measurement">Metric</string>
+    <string name="metric_ml">%1$s ml.</string>
+    <string name="metric_grams">%1$s grams</string>
+    <string name="water_used">Water Used</string>
+    <string name="coffee_used">Coffee Used</string>
+    <string name="brew_button">Start Brewing!</string>
+    <string name="brew_button_complete">Done!</string>
+</resources>
